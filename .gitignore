@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+venv/
+.env/
+.venv/
+env/
+
+# Streamlit cache
+.streamlit/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs & temp
+*.log
+fix_template.py
+fix_professional.py
+get_schemas.py
+
+# Node / React (old approach — not needed)
+zorvyn-dashboard/node_modules/
+zorvyn-dashboard/dist/
+
+# Large generated CSVs (keep source datasets, exclude derived)
+zorvyn_cleaned_data.csv
+clean_agg_transactions.csv
+clean_agg_users.csv
+clean_map_transactions.csv
+clean_map_users.csv
+clean_top_transactions.csv
+clean_top_users.csv
