@@ -95,5 +95,5 @@ Zorvyn_Data_Analyst/
 
 ## Author
 
-**ZORVYN Fintech Data Intelligence Team**  
-Project built for industry-level data analyst portfolio demonstration.
+Ashutosh Mishra
+.
